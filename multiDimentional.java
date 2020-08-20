@@ -1,6 +1,3 @@
-
-package tester;
-
 public class multiDimensional {
 
 	public static void main(String[] args) {
